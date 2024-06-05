@@ -1,6 +1,17 @@
-# Compiler files
-cache/
+# Dependency directories
+node_modules/
+
+# Compiled output
 out/
+build/
+
+# Foundry artifacts
+artifacts/
+cache/
+
+
+# Forge std library
+lib/forge-std/
 
 # Ignores development broadcast logs
 !/broadcast
